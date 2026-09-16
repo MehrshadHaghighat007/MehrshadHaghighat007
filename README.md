@@ -16,6 +16,7 @@ Fourth-year Computer Science student at Sharif University of Technology, focused
 - [**Quoridor AI**](https://github.com/MehrshadHaghighat007/quoridor-ai) — An adversarial search agent for the board game Quoridor, using Minimax and Alpha-Beta pruning.
 - [**Rubik's Cube Solver**](https://github.com/MehrshadHaghighat007/rubik-cube-ai) — A comparative study of ten search algorithms applied to a generalized N×N×N Rubik's Cube.
 - [**Cloud Storage**](https://github.com/MehrshadHaghighat007/cloud-storage-server) — A simplified cloud storage service with a custom client-server architecture in Java.
+- [**Reflex**](https://github.com/MehrshadHaghighat007/reflex/tree/reflex-xray-protocol) — Implementation of a data transfer protocol for network communication, built collaboratively for a networking course.
 
 ---
 
