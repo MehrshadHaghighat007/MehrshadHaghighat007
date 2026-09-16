@@ -1,6 +1,6 @@
 ### Mehrshad Haghighat
 
-Fourth-year Computer Engineering student at Sharif University of Technology, focused on **AI Engineering** and **software development**.
+Fourth-year Computer Science student at Sharif University of Technology, focused on **AI Engineering** and **software development**.
 
 - Building intelligent systems based on Retrieval-Augmented Generation (RAG) and large language models (LLMs)
 - Interested in Bayesian inference, adversarial search, and Persian NLP
