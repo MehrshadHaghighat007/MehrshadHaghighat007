@@ -5,7 +5,7 @@ Fourth-year Computer Science student at Sharif University of Technology, focused
 - Building intelligent systems based on Retrieval-Augmented Generation (RAG) and large language models (LLMs)
 - Interested in Bayesian inference, adversarial search, and Persian NLP
 - Backend development with Flask; primary languages: Python and Java
-- Contact: haghighamehrshad@gmail.com
+- Contact: mehrshadhaghighat007@gmail.com
 
 ---
 
